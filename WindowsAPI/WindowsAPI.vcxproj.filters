@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TextOut.c">
+    <ClCompile Include="DrawText.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

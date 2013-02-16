@@ -1,3 +1,2 @@
-﻿  TextOut.c
-c:\users\slo\documents\visual studio 2012\projects\windowsapi\windowsapi\textout.c(11): warning C4028: formal parameter 3 different from declaration
+﻿  DrawText.c
   WindowsAPI.vcxproj -> C:\Users\sLo\Documents\Visual Studio 2012\Projects\WindowsAPI\Debug\WindowsAPI.exe

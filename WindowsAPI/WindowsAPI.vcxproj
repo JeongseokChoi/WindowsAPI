@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TextOut.c" />
+    <ClCompile Include="DrawText.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4086EC4E-77A7-4562-B33F-0E99A6B53E2B}</ProjectGuid>
