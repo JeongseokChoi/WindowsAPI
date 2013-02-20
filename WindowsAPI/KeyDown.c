@@ -12,8 +12,8 @@ int APIENTRY WinMain(HINSTANCE hInstance,
                      LPSTR     lpszCmdParam,
                      int       nCmdShow)
 {
-    HWND hWnd;
-    MSG Message;
+    HWND     hWnd;
+    MSG      Message;
     WNDCLASS WndClass;
 
     g_hInst = hInstance;
